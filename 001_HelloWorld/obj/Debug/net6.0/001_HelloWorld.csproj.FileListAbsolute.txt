@@ -1,0 +1,15 @@
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\bin\Debug\net6.0\001_HelloWorld.exe
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\bin\Debug\net6.0\001_HelloWorld.deps.json
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\bin\Debug\net6.0\001_HelloWorld.runtimeconfig.json
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\bin\Debug\net6.0\001_HelloWorld.dll
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\bin\Debug\net6.0\001_HelloWorld.pdb
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.csproj.AssemblyReference.cache
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.AssemblyInfoInputs.cache
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.AssemblyInfo.cs
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.dll
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\refint\001_HelloWorld.dll
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.pdb
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\001_HelloWorld.genruntimeconfig.cache
+D:\Geek Brains\С#\01. лекция\001_HelloWorld\obj\Debug\net6.0\ref\001_HelloWorld.dll
