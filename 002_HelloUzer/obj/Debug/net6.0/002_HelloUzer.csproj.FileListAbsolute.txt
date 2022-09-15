@@ -1,0 +1,15 @@
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\bin\Debug\net6.0\002_HelloUzer.exe
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\bin\Debug\net6.0\002_HelloUzer.deps.json
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\bin\Debug\net6.0\002_HelloUzer.runtimeconfig.json
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\bin\Debug\net6.0\002_HelloUzer.dll
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\bin\Debug\net6.0\002_HelloUzer.pdb
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.csproj.AssemblyReference.cache
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.AssemblyInfoInputs.cache
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.AssemblyInfo.cs
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.csproj.CoreCompileInputs.cache
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.dll
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\refint\002_HelloUzer.dll
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.pdb
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\002_HelloUzer.genruntimeconfig.cache
+D:\Geek Brains\С#\01. лекция\002_HelloUzer\obj\Debug\net6.0\ref\002_HelloUzer.dll
